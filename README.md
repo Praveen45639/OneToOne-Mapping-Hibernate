@@ -1,1 +1,1 @@
-# Hibernate-OneToOneMapping
+OneToOne-Mapping-Hibernate
